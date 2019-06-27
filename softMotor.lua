@@ -1,3 +1,5 @@
+asyn = require("asyn")
+
 IdlePollPeriod = 1.00
 MovingPollPeriod = 0.25
 
